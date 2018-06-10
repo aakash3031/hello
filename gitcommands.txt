@@ -1,0 +1,14 @@
+1. git clone url
+ Git branch sub
+Git checkout sub
+	change in sub branch
+Git status
+Git add -A
+Git commit -m "Aakash"
+Git push -u origin sub
+Git checkout master
+Git pull origin master
+Git merge subtract
+Git branch -d sub //to delete in local
+Git push origin --delete sub//to delete remote repo
+Git push origin
